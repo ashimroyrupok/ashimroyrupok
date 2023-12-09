@@ -17,7 +17,7 @@ Contact me in Email : ashimroyrupok@gmail.com
 
 ## What do I know
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,firebase,bootstrap,mongodb,nodejs,expressjs,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,firebase,bootstrap,mongodb,nodejs,expressjs,)](https://skillicons.dev)
 
  ## Here some project with MERN
 
@@ -32,6 +32,10 @@ Contact me in Email : ashimroyrupok@gmail.com
 -There have there type role admin,user and agent.
 - Only loged user can see details.
 - All user can review our property .
+
+Technologies : 
+
+[![My Skills](https://skillicons.dev/icons?i=react,mongodb,nodejs,expressjs,)](https://skillicons.dev)
   
 
   
@@ -46,7 +50,9 @@ project name:  ***JOb Hunter***
 - Job post owner can update and delete there post.
 - Only loged user can see details about job.
   
+Technologies : 
 
+[![My Skills](https://skillicons.dev/icons?i=react,mongodb,nodejs,expressjs,)](https://skillicons.dev)
 
 
 ***Tchnology and Electronics***
@@ -58,6 +64,9 @@ project name:  ***JOb Hunter***
 - User can update the product.
 - Only loged user can see products details
 
+Technologies : 
+
+[![My Skills](https://skillicons.dev/icons?i=react,mongodb,nodejs,expressjs,)](https://skillicons.dev)
 
 
 ## My Contribution
