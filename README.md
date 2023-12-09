@@ -3,7 +3,7 @@
 
 ## About Me
 
-My name is Ashim Roy.I am studying Computer Science and Technology in Rangpur Polytechnic Institute.I am working with MERN.Still working on MERN.
+My name is Ashim Roy.I am studying Computer Science and Technology in Rangpur Polytechnic Institute.I am working with MERN.Still working on MERN.I would like to see myself as a full stack developer
 
 Contact me in Email : ashimroyrupok@gmail.com
 
