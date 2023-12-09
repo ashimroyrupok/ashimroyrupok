@@ -22,6 +22,44 @@ Contact me in Email : ashimroyrupok@gmail.com
  ## Here some project with MERN
 
 
+
+ project name: ***Urban Home***
+
+**live link** : https://assignmet-12-4ce4a.firebaseapp.com
+- User can signin and sign out in this website.
+- User can see there wishlist and brought item.
+- This is website is real estate.so that user can pay with stripe here.
+-There have there type role admin,user and agent.
+- Only loged user can see details.
+- All user can review our property .
+  
+
+  
+
+
+project name:  ***JOb Hunter***
+
+**live link** : https://job-hunter-b5910.firebaseapp.com
+- User can signin and sign out in this website.
+- User can see there bid request.
+- This website has dark light mood theme.
+- Job post owner can update and delete there post.
+- Only loged user can see details about job.
+  
+
+
+
+***Tchnology and Electronics***
+
+**live link** :https://technology-and-electroni-877f5.web.app
+- User can signin and sign out in this website.
+- User can add to cart there favourite product.
+- This website has dark light mood theme.
+- User can update the product.
+- Only loged user can see products details
+
+
+
 ## My Contribution
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashimroyrupok&theme=java-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=1200)](https://git.io/streak-stats)
