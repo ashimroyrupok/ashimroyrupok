@@ -1,6 +1,12 @@
 ![Alt text](https://raw.githubusercontent.com/ashimroyrupok/ashimroyrupok/main/assets/mern-stack.jpg)
 
 
+## About Me
+
+My name is Ashim Roy.I am studying Computer Science and Technology in Rangpur Polytechnic Institute.I am working with MERN.Still working on MERN.
+
+Contact me in Email : ashimroyrupok@gmail.com
+
 ## What do I know
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,firebase,bootstrap,mongodb,nodejs,expressjs,)](https://skillicons.dev)
@@ -8,7 +14,11 @@
 
 ## My Contribution
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashimroyrupok&theme=java-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashimroyrupok&theme=java-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=1200)](https://git.io/streak-stats)
+
+
+ ## Here some project with MERN
+ 
 
 ## Reach me out
 <p align="center">
