@@ -1,1 +1,1 @@
-![Alt text](https://raw.githubusercontent.com/Ahmdpolash/AhmdPolash/main/assest/Screenshot_15.png)
+![Alt text](https://raw.githubusercontent.com/ashimroyrupok/ashimroyrupok/main/assets/mern-stack.jpg)
