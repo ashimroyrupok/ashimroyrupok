@@ -8,4 +8,11 @@
 
 ## My Contribution
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashimroyrupok&theme=java-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashimroyrupok&theme=java-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=800)](https://git.io/streak-stats)
+
+## Reach me out
+<p align="center">
+  <a href="https://www.facebook.com/ashim.royrupok.2">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+</p>
