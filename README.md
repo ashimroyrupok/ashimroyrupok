@@ -20,7 +20,7 @@ Contact me in Email : ashimroyrupok@gmail.com
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,firebase,bootstrap,mongodb,nodejs,expressjs,)](https://skillicons.dev)
 
  ## Here some project with MERN
- 
+
 
 ## My Contribution
 
@@ -47,7 +47,7 @@ Contact me in Email : ashimroyrupok@gmail.com
 
 
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashimroyrupok&theme=ayu_mirage)
+
 
 
 
