@@ -57,7 +57,7 @@ Technologies :
 
 ***Tchnology and Electronics***
 
-**live link** :https://technology-and-electroni-877f5.web.app
+**live link** :https:https://eclectic-custard-6c67bf.netlify.app
 - User can signin and sign out in this website.
 - User can add to cart there favourite product.
 - This website has dark light mood theme.
