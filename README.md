@@ -3,15 +3,15 @@
 
 ## About Me
 
-My name is Ashim Roy.I am studying Computer Science and Technology in Rangpur Polytechnic Institute.I am working with MERN.Still working on MERN.I would like to see myself as a full stack developer
+My name is Ashim Roy. I am studying Computer Science and Technology at Rangpur Polytechnic Institute. I am working with MERN. Still working on MERN. I would like to see myself as a full-stack developer
 
-Contact me in Email : ashimroyrupok@gmail.com
+Contact me by Email: ashimroyrupok@gmail.com
 
 👩‍💻 I'm currently working on MERN...
 
 🧠 I'm currently learning Next.js...
 
-👯‍♀️ I'm looking to collaborate on a industry...
+👯‍♀️ I'm looking to collaborate in an industry...
 
 
 
@@ -19,19 +19,19 @@ Contact me in Email : ashimroyrupok@gmail.com
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,firebase,bootstrap,mongodb,nodejs,expressjs,)](https://skillicons.dev)
 
- ## Here some project with MERN
+ ## Here are some project with MERN
 
 
 
  project name: ***Urban Home***
 
 **live link** : https://assignmet-12-4ce4a.firebaseapp.com
-- User can signin and sign out in this website.
-- User can see there wishlist and brought item.
-- This is website is real estate.so that user can pay with stripe here.
--There have there type role admin,user and agent.
-- Only loged user can see details.
-- All user can review our property .
+- Users can sign in and sign out on this website.
+- Users can see their wishlist and bring items.
+- This website is real estate. so the user can pay with stripe here.
+-There are types of roles admin, user, and agent.
+- Only logged user can see details.
+- All users can review our property.
 
 Technologies : 
 
@@ -44,11 +44,11 @@ Technologies :
 project name:  ***JOb Hunter***
 
 **live link** : https://job-hunter-b5910.firebaseapp.com
-- User can signin and sign out in this website.
-- User can see there bid request.
-- This website has dark light mood theme.
-- Job post owner can update and delete there post.
-- Only loged user can see details about job.
+- Users can sign in and sign out on this website.
+- Users can see their bid requests.
+- This website has a dark light mood theme.
+- Job post owners can update and delete their posts.
+- Only logged users can see details about the job.
   
 Technologies : 
 
